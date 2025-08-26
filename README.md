@@ -32,30 +32,6 @@ Materiály sú rozdelené do dvoch hlavných častí:
 3. Materiály sú navrhnuté tak, aby poskytovali komplexné informácie k danej téme, vrátane teoretických základov a praktických príkladov.
 4. Odporúčame používať tieto materiály v kombinácii s odporúčanou literatúrou.
 
-### ⭐ Tipy na štúdium
-
-- Vytvorte si vlastné poznámky z týchto materiálov
-- Skúste vysvetliť každú tému vlastnými slovami
-- Identifikujte prepojenia medzi jednotlivými témami
-- Zamerajte sa na kľúčové koncepty a definície
-- Venujte pozornosť príkladom z praxe, ktoré ilustrujú teoretické koncepty
-
-### 📅 Časový harmonogram štúdia
-
-- Odporúčame začať s prípravou minimálne 2-3 mesiace pred termínom štátnej skúšky
-- Venujte každej téme dostatočný čas - ideálne 1-2 dni
-- Ponechajte si aspoň 2 týždne na opakovanie a precvičovanie
-
-
-
-## 🔄 Aktualizácia
-
-Materiály sú pravidelne aktualizované podľa najnovších syláb a požiadaviek na štátne skúšky. Posledná aktualizácia: Máj 2025.
-
-## 📞 Kontakt
-
-V prípade otázok alebo pripomienok k materiálom, prosím, vytvorte issue v tomto repozitári.
-
 ## 📝 Licencia
 
 Tieto materiály sú poskytované na vzdelávacie účely pre študentov verejnej správy a verejnej politiky.
